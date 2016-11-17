@@ -1,6 +1,6 @@
 solat-jakim-zone-scraper
 =====================
-data scraper from http://api.kayrules.com/solatjakim/zones
+data scraper for http://api.kayrules.com/solatjakim/zones
 
 ## Pre-requisites  
 
