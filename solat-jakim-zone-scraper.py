@@ -31,9 +31,5 @@ for x in range(0, len(table)):
             write_to_file = code + "," + location + "," + latitude + "," + longitude + "\n"
             print (write_to_file)
             f.write(write_to_file)
-            # # open a csv file with append, so old data will not be erased
-            # with open('locationcode.csv', 'a') as csv_file:
-            #     writer = csv.writer(csv_file)
-            #     writer.writerow([code, location, latitude, longitude])
-
+            
 f.close()
