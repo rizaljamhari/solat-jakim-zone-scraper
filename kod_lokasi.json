@@ -1,0 +1,235 @@
+{
+	"kod_lokasi": [{
+		"Negeri": "JOHOR",
+		"Kod": "JHR01",
+		"Kawasan": ["Pulau Aur", "Pemanggil"]
+	}, {
+		"Negeri": "JOHOR",
+		"Kod": "JHR02",
+		"Kawasan": ["Kota Tinggi", "Mersing", "Johor Bahru"]
+	}, {
+		"Negeri": "JOHOR",
+		"Kod": "JHR03",
+		"Kawasan": ["Kluang", "Pontian"]
+	}, {
+		"Negeri": "JOHOR",
+		"Kod": "JHR04",
+		"Kawasan": ["Batu Pahat", "Muar", "Segamat", "Gemas"]
+	}, {
+		"Negeri": "KEDAH",
+		"Kod": "KDH01",
+		"Kawasan": ["Kota Setar", "Kubang Pasu", "Pokok Sena"]
+	}, {
+		"Negeri": "KEDAH",
+		"Kod": "KDH02",
+		"Kawasan": ["Pendang", "Kuala Muda", "Yan"]
+	}, {
+		"Negeri": "KEDAH",
+		"Kod": "KDH03",
+		"Kawasan": ["Padang Terap", "Sik"]
+	}, {
+		"Negeri": "KEDAH",
+		"Kod": "KDH04",
+		"Kawasan": ["Baling"]
+	}, {
+		"Negeri": "KEDAH",
+		"Kod": "KDH05",
+		"Kawasan": ["Kulim", "Bandar Bahru"]
+	}, {
+		"Negeri": "KEDAH",
+		"Kod": "KDH06",
+		"Kawasan": ["Langkawi"]
+	}, {
+		"Negeri": "KEDAH",
+		"Kod": "KDH07",
+		"Kawasan": ["Gunung Jerai"]
+	}, {
+		"Negeri": "KELANTAN",
+		"Kod": "KTN01",
+		"Kawasan": ["Kota Bahru", "Bachok", "Pasir Puteh", "Tumpat", "Pasir Mas", "Tanah Merah", "Machang", "Kuala Krai", "Mukim Chiku"]
+	}, {
+		"Negeri": "KELANTAN",
+		"Kod": "KTN03",
+		"Kawasan": ["Jeli", "Gua Musang", "Mukim Galas", "Bertam"]
+	}, {
+		"Negeri": "MELAKA",
+		"Kod": "MLK01",
+		"Kawasan": ["Bandar Melaka", "Alor Gajah", "Jasin", "Masjid Tanah", "Merlimau", "Nyalas"]
+	}, {
+		"Negeri": "NEGERI SEMBILAN",
+		"Kod": "NGS01",
+		"Kawasan": ["Jempol", "Tampin"]
+	}, {
+		"Negeri": "NEGERI SEMBILAN",
+		"Kod": "NGS02",
+		"Kawasan": ["Port Dickson", "Seremban", "Kuala Pilah", "Jelebu", "Rembau"]
+	}, {
+		"Negeri": "PAHANG",
+		"Kod": "PHG01",
+		"Kawasan": ["Pulau Tioman"]
+	}, {
+		"Negeri": "PAHANG",
+		"Kod": "PHG02",
+		"Kawasan": ["Kuantan", "Pekan", "Rompin", "Muadzam Shah"]
+	}, {
+		"Negeri": "PAHANG",
+		"Kod": "PHG03",
+		"Kawasan": ["Maran", "Chenor", "Temerloh", "Bera", "Jerantut"]
+	}, {
+		"Negeri": "PAHANG",
+		"Kod": "PHG04",
+		"Kawasan": ["Bentong", "Raub", "Kuala Lipis"]
+	}, {
+		"Negeri": "PAHANG",
+		"Kod": "PHG05",
+		"Kawasan": ["Genting Sempah", "Janda Baik", "Bukit Tinggi"]
+	}, {
+		"Negeri": "PAHANG",
+		"Kod": "PHG06",
+		"Kawasan": ["Bukit Fraser", "Genting Highlands", "Cameron Highlands"]
+	}, {
+		"Negeri": "PERAK",
+		"Kod": "PRK01",
+		"Kawasan": ["Tapah", "Slim River", "Tanjung Malim"]
+	}, {
+		"Negeri": "PERAK",
+		"Kod": "PRK02",
+		"Kawasan": ["Ipoh", "Batu Gajah", "Kampar", "Sungai Siput", "Kuala Kangsar"]
+	}, {
+		"Negeri": "PERAK",
+		"Kod": "PRK03",
+		"Kawasan": ["Pengkalan Hulu", "Grid", "Lenggong"]
+	}, {
+		"Negeri": "PERAK",
+		"Kod": "PRK04",
+		"Kawasan": ["Temenggung", "Belum"]
+	}, {
+		"Negeri": "PERAK",
+		"Kod": "PRK05",
+		"Kawasan": ["Teluk Intan", "Bagan Datoh", "Kampung Gajah", "Sri Iskandar", "Beruas", "Parit", "Lumut", "Setiawan", "Pulau Pangkor"]
+	}, {
+		"Negeri": "PERAK",
+		"Kod": "PRK06",
+		"Kawasan": ["Selama", "Taiping", "Bagan Serai", "Parit Buntar"]
+	}, {
+		"Negeri": "PERAK",
+		"Kod": "PRK07",
+		"Kawasan": ["Bukit Larut"]
+	}, {
+		"Negeri": "PERLIS",
+		"Kod": "PLS01",
+		"Kawasan": ["Kangar", "Padang Besar", "Arau"]
+	}, {
+		"Negeri": "PULAI PINANG",
+		"Kod": "PNG01",
+		"Kawasan": ["Pulau Pinang"]
+	}, {
+		"Negeri": "SABAH",
+		"Kod": "SBH01",
+		"Kawasan": ["Sandakan", "Bandar Bukir Garam", "Semawang", "Temanggong", "Tambisan"]
+	}, {
+		"Negeri": "SABAH",
+		"Kod": "SBH02",
+		"Kawasan": ["Pinangah", "Terusan", "Beluran", "Kuamut", "Telupit"]
+	}, {
+		"Negeri": "SABAH",
+		"Kod": "SBH03",
+		"Kawasan": ["Lahad Datu", "Kunak", "Silabukan", "Tungku", "Sahabat", "Semporna"]
+	}, {
+		"Negeri": "SABAH",
+		"Kod": "SBH04",
+		"Kawasan": ["Tawau", "Balong", "Merotai", "Kalabakan"]
+	}, {
+		"Negeri": "SABAH",
+		"Kod": "SBH05",
+		"Kawasan": ["Kudat", "Kota Marudu", "Pitas", "Pulau Banggi"]
+	}, {
+		"Negeri": "SABAH",
+		"Kod": "SBH06",
+		"Kawasan": ["Gunung Kinabalu"]
+	}, {
+		"Negeri": "SABAH",
+		"Kod": "SBH07",
+		"Kawasan": ["Papar", "Ranau", "Kota Belud", "Tuaran", "Penampang", "Kota Kinabalu"]
+	}, {
+		"Negeri": "SABAH",
+		"Kod": "SBH08",
+		"Kawasan": ["Pensiangan", "Keningau", "Tambunan", "Nabawan"]
+	}, {
+		"Negeri": "SABAH",
+		"Kod": "SBH09",
+		"Kawasan": ["Sipitang", "Membakut", "Beaufort", "Kuala Penyu", "Weston", "Tenom", "Long Pa Sia"]
+	}, {
+		"Negeri": "SARAWAK",
+		"Kod": "SWK01",
+		"Kawasan": ["Limbang", "Sundar", "Terusan", "Lawas"]
+	}, {
+		"Negeri": "SARAWAK",
+		"Kod": "SWK02",
+		"Kawasan": ["Niah", "Belaga", "Sibuti", "Miri", "Bekenu", "Marudi"]
+	}, {
+		"Negeri": "SARAWAK",
+		"Kod": "SWK03",
+		"Kawasan": ["Song", "Bilingan", "Sebauh", "Bintulu", "Tatau", "Kapit"]
+	}, {
+		"Negeri": "SARAWAK",
+		"Kod": "SWK04",
+		"Kawasan": ["Igan", "Kanowit", "Sibu", "Dalat", "Oya"]
+	}, {
+		"Negeri": "SARAWAK",
+		"Kod": "SWK05",
+		"Kawasan": ["Belawai", "Matu", "Daro", "Sarikei", "Julau", "Bitangor", "Rajang"]
+	}, {
+		"Negeri": "SARAWAK",
+		"Kod": "SWK06",
+		"Kawasan": ["Kabong", "Lingga", "Sri Aman", "Engkelili", "Betong", "Spaoh", "Pusa", "Saratok", "Roban", "Debak"]
+	}, {
+		"Negeri": "SARAWAK",
+		"Kod": "SWK07",
+		"Kawasan": ["Samarahan", "Simunjan", "Serian", "Sebuyau", "Meludam"]
+	}, {
+		"Negeri": "SARAWAK",
+		"Kod": "SWK08",
+		"Kawasan": ["Kuching", "Bau", "Lundu", "Sematan"]
+	}, {
+		"Negeri": "SARAWAK",
+		"Kod": "SWK09",
+		"Kawasan": ["Zon Khas"]
+	}, {
+		"Negeri": "SELANGOR",
+		"Kod": "SGR01",
+		"Kawasan": ["Gombak", "Hulu Selangor", "Rawang", "Hulu Langat", "Sepang", "Petaling", "Shah Alam"]
+	}, {
+		"Negeri": "SELANGOR",
+		"Kod": "SGR02",
+		"Kawasan": ["Sabak Bernam", "Kuala Selangor", "Klang", "Kuala Langat"]
+	}, {
+		"Negeri": "TERANGGANU",
+		"Kod": "TRG01",
+		"Kawasan": ["Kuala Terengganu", "Marang"]
+	}, {
+		"Negeri": "TERANGGANU",
+		"Kod": "TRG02",
+		"Kawasan": ["Besut", "Setiu"]
+	}, {
+		"Negeri": "TERANGGANU",
+		"Kod": "TRG03",
+		"Kawasan": ["Hulu Terengganu"]
+	}, {
+		"Negeri": "TERANGGANU",
+		"Kod": "TRG04",
+		"Kawasan": ["Kemaman", "Dungun"]
+	}, {
+		"Negeri": "PUTRAJAYA",
+		"Kod": "SGR04",
+		"Kawasan": ["Putrajaya"]
+	}, {
+		"Negeri": "KUALA LUMPUR",
+		"Kod": "SGR03",
+		"Kawasan": ["Kuala Lumpur"]
+	}, {
+		"Negeri": "LABUAN",
+		"Kod": "WLY02",
+		"Kawasan": ["Labuan"]
+	}]
+}
