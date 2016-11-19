@@ -16,6 +16,7 @@ longitude = ""
 table = soup.find_all("tbody")
 print (table)
 
+# create new excel file
 f = open('locationcode.csv', 'w')
 
 for x in range(0, len(table)):
@@ -31,5 +32,5 @@ for x in range(0, len(table)):
             write_to_file = code + "," + location + "," + latitude + "," + longitude + "\n"
             print (write_to_file)
             f.write(write_to_file)
-            
+
 f.close()
